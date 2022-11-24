@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Bedlam Festival"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
-  email            :
+  bio              : "23rd-28th January 2023"
+  location         : "Bedlam Theatre"
+  email            : "bedfest@bedlamtheatre.co.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
