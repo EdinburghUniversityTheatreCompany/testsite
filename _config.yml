@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : "en-US"
 title                    : "Bedfest 2023"
 title_separator          : "|"
 subtitle                 : "Bedlam Festival 2023 | 23rd - 28th January 2023" # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "The EUTC's mini-theatre festival "
+name                     : "Bedfest 2023"
+description              : "The EUTC's mini-theatre festival held in the Bedlam Theatre 23rd-28th January 2023!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -134,22 +134,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://twitter.com/_bedfest"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      # url: "https://www.facebook.com/bedlamfestival"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://instagram.com/bedlamfestival"
 
 
 # Reading Files
